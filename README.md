@@ -5,7 +5,7 @@ This is a simple classic Snake game written in Python using the tkinter library.
 
 
 # 
-🕸️**Features**
+## 🕸️ **Features**
 
 1. Move the snake using arrow keys to collect food and grow longer.
 2. Difficulty levels: Easy, Medium, and Hard (affecting the game speed).
@@ -13,7 +13,7 @@ This is a simple classic Snake game written in Python using the tkinter library.
 4. Clean and customizable code with comments.
 
 #
-🎮**How to Play**
+## 🎮**How to Play**
 
 1. Run the script: python snake_game.py (replace snake_game.py with your actual file name).
 2. Click "Start Game" to begin.
@@ -23,17 +23,17 @@ This is a simple classic Snake game written in Python using the tkinter library.
 6. Use the "Restart" button to start a new game or "Exit" to close the window.
 
 #
-🛠️**Customization**
+## 🛠️**Customization**
 
 You can modify the colors (SNAKE_COLOR, FOOD_COLOR, BACKGROUND_COLOR, BUTTON_COLOR, and SCORE_COLOR) in the game.py script to personalize the game's look.
 
 #
-🧩**Requirements**
+## 🧩**Requirements**
 
 1. Python 3.x
 2. tkinter library (usually comes pre-installed with Python)
 
 #
-**Have fun playing!** 😃😀😀
+**Have fun playing!** 😃😀😀  
 ![gameOver](https://github.com/SinethB/python-snake-game/assets/141998201/6ff148c1-0d45-42f6-9b6e-54cd6b2e1e86)
 
