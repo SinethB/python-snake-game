@@ -15,7 +15,7 @@ This is a simple classic Snake game written in Python using the tkinter library.
 #
 ## 🎮**How to Play**
 
-1. Run the script: python snake_game.py (replace snake_game.py with your actual file name).
+1. Run the script: python snake_game.py 
 2. Click "Start Game" to begin.
 3. Use the arrow keys (Left, Right, Up, Down) to control the snake's direction.
 4. Collect food (red circles) to grow longer and increase your score.
